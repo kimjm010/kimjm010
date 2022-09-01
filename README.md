@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Jeongmin(Chris)
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://chris-kim.tistory.com)](https://chris-kim.tistory.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/jeongmin-kim-softwareengineer)](www.linkedin.com/in/jeongmin-kim-softwareengineer) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimjm9481@gmail.com)](mailto:kimjm9481@gmail.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://chris-kim.tistory.com)](https://chris-kim.tistory.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/jeongmin-kim-softwareengineer)](www.linkedin.com/in/jeongmin-kim-softwareengineer) [![Gmail Badge kimjm9481@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimjm9481@gmail.com)](mailto:kimjm9481@gmail.com)
 
 ### • I'm currently learning iOS Programming
 
