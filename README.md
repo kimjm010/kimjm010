@@ -8,7 +8,7 @@ I want to be a **software engineer**
 • I'm currently learning iOS Programming
 • I want to broaden my knowledge. I want to work not only in mobile programming field but also back-end programming in the future.
 
-![Jeongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongminKim&show_icons=true&theme=radical)
+[![Jeongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjm010)](https://github.com/kimjm010/github-readme-stats)
 
 
 - 🔭 I’m currently working on ...
