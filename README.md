@@ -1,5 +1,5 @@
 ## Hi there 👋, my name is Jeongmin(Chris)
-###I want to be a **software engineer**
+### I want to be a **software engineer**
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://chris-kim.tistory.com)](https://chris-kim.tistory.com)
 
