@@ -7,6 +7,7 @@
 ###• I want to broaden my knowledge. I want to work not only in mobile programming field but also back-end programming in the future.
 
 [![Jeongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjm010)](https://github.com/kimjm010/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjm010)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🌱 I’m currently learning iOS Programming
