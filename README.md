@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋, my name is Jeongmin(Chris)
+I want to be a **software engineer**
+
+([github](/images/icon.png))
+
 
 ### iOS Developer
 
