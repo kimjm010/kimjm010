@@ -4,7 +4,7 @@
 
 ### • I'm currently learning iOS Programming
 
-## I love to dive into the problem in order to find the best way to solve the problems. Also I want to find the fundamental causes of the problems to fix it.
+## • I love to dive into the problem in order to find the best way to solve the problems. Also I want to find the fundamental causes of the problems to fix it.
 
 [![Jeongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjm010)](https://github.com/kimjm010/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjm010)](https://github.com/anuraghazra/github-readme-stats)
