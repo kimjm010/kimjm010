@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm **(mobile app developer) using iOS.
-## I enjoy crossfit, running and golf.
-## I hope to use my skills and knowledge to solve the problem and improve people's life quality.
+### I enjoy crossfit, running and golf.
+### I hope to use my skills and knowledge to solve the problem and improve people's life quality.
 
 ### • I love to dive into problems in order to find the best way to solve it. Also I want to find the fundamental causes of the problems to fix it.
 
