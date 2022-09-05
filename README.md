@@ -4,7 +4,6 @@
 ### I enjoy crossfit, running and golf.
 ### I hope to use my skills and knowledge to solve the problem and improve people's life quality.
 
-### I love dive into problems in order to find the best way to solve it. Also I want to find the fundamental causes of the problems to fix it.
 
 [![Jeongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjm010)](https://github.com/kimjm010/github-readme-stats)
 
