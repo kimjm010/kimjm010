@@ -1,5 +1,5 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://chris-kim.tistory.com)](https://chris-kim.tistory.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chris-kim-iosdeveloper)]([www.linkedin.com/in/jeongmin-kim-iosdeveloper])
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Chris-kim-iOSdeveloper)]([[www.linkedin.com/in/jeongmin-kim-iosdeveloper](https://www.linkedin.com/in/Chris-kim-iOSdeveloper)])
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimjm9481@gmail.com)](mailto:kimjm9481@gmail.com)
 
 ## Hi there 👋, I'm mobile app developer using iOS.
