@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimjm9481@gmail.com)](mailto:kimjm9481@gmail.com)
 
 ## Hi there 👋, I'm mobile app developer using iOS.
-### I hope to use my skills and knowledge to solve the problem and improve quality of people's life.
+### I hope to use my skills and knowledge  to solve the problem and improve quality of people's life.
 
 
 [![Jeongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjm010)](https://github.com/kimjm010/github-readme-stats)
